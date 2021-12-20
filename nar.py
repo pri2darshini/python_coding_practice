@@ -1,3 +1,4 @@
+#To find the narcissistic number
 def narcissistic( a ):
     
     n = a
