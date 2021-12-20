@@ -18,5 +18,5 @@ def narcissistic( a ):
     else:
         return False
 
-# Main function starts here:
+
 print(narcissistic(371))
